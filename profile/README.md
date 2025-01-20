@@ -29,10 +29,10 @@
 - Practices: Agile, Scrum, SOC 2 compliance.
 
 ## Get in Touch
-- 📫 Email: [Your Email Here]
-- 🌐 Website: [Your Website Here]
-- 🐦 Twitter: [Your Twitter Handle]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📫 Email: javaidbabar@gmail.com
+- 🌐 Website: https://javaidbabar.com
+- 🐦 Twitter: https://x.com/javaidbabar
+- 💼 LinkedIn: https://www.linkedin.com/in/javaidbabar
 - 🌟 GitHub Projects: [Your GitHub Repositories]
 
 ---

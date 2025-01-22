@@ -1,35 +1,35 @@
-#### Powersoft19 Services, Products Portfolio
-#### Curetel
-#### Cattron Group Internal Applications - Document Management & Communication Platform
-#### Cattron Group Internal Applications - Internal Processes Automation Platform
-#### RemoteIQ (Formally CattronConnect and Tasverii)
-#### Smart Grid Data Analytics & Dashboards
-#### Sprague Website
-#### Vehicle Operations Dashboards and Monitoring
-#### Mevris (IoT Operating System)
-#### Orient E-commerce Platform (Magento to Shopify, Integration with SAP and Shopify, Order Fulfilment Automation)
-#### Bluebase IoT OS
-#### Smart Air Conditioner Assembly Line Quality Process Automation
-#### Dukaan
-#### Daakia
-#### Rabta
-#### Shopify Private App - Order Fulfilment Automation
-#### SAP Connector - Order Fulfilment Automation
-#### Wireless Activation Retail Platform (WARP) 
-#### Online Appointment Management for Wireless Activation Retail Platform (WARP)
-#### Online Tax Slips Submission System
-#### Master Data Management (MDM) for ERPs
-#### RABC and ABAC as SaaS
-#### Shufti Pro
-#### Tavus (AI Video Generation Platform)
-#### Offer Approved (Mobile App, Backend, Landing Page, Stripe)
-#### Used Engines (E-Commerce Website, Backend, Landing Page, CRM Integration)
-#### Grip Studio (Multi-Vendor Gyms Market Place Mobile Apps, Landing Page, APIs, Landing Page, Admin Portal)
-#### R. B. Thieme (Mobile App, E-commerce Platform, Landing Page, APIs, Landing Page, Admin Portal)
-#### Kartie.com
-#### BlinkAppz: Shopify Mobile App Builder
-#### Tropic Air Mobile App
-#### OPAR Mobile App
+1. ##### Powersoft19 Services, Products Portfolio
+1. ##### Curetel
+1. ##### Cattron Group Internal Applications - Document Management & Communication Platform
+1. ##### Cattron Group Internal Applications - Internal Processes Automation Platform
+1. ##### RemoteIQ (Formally CattronConnect and Tasverii)
+1. ##### Smart Grid Data Analytics & Dashboards
+1. ##### Sprague Website
+1. ##### Vehicle Operations Dashboards and Monitoring
+1. ##### Mevris (IoT Operating System)
+1. ##### Orient E-commerce Platform (Magento to Shopify, Integration with SAP and Shopify, Order Fulfilment Automation)
+1. ##### Bluebase IoT OS
+1. ##### Smart Air Conditioner Assembly Line Quality Process Automation
+1. ##### Dukaan
+1. ##### Daakia
+1. ##### Rabta
+1. ##### Shopify Private App - Order Fulfilment Automation
+1. ##### SAP Connector - Order Fulfilment Automation
+1. ##### Wireless Activation Retail Platform (WARP) 
+1. ##### Online Appointment Management for Wireless Activation Retail Platform (WARP)
+1. ##### Online Tax Slips Submission System
+1. ##### Master Data Management (MDM) for ERPs
+1. ##### RBAC and ABAC as SaaS
+1. ##### Shufti Pro
+1. ##### Tavus (AI Video Generation Platform)
+1. ##### Offer Approved (Mobile App, Backend, Landing Page, Stripe)
+1. ##### Used Engines (E-Commerce Website, Backend, Landing Page, CRM Integration)
+1. ##### Grip Studio (Multi-Vendor Gyms Market Place Mobile Apps, Landing Page, APIs, Landing Page, Admin Portal)
+1. ##### R. B. Thieme (Mobile App, E-commerce Platform, Landing Page, APIs, Landing Page, Admin Portal)
+1. ##### Kartie.com
+1. ##### BlinkAppz: Shopify Mobile App Builder
+1. ##### Tropic Air Mobile App
+1. ##### OPAR Mobile App
 
 ## Purpose
 - Brief description of the project's goal or the problem it solves.

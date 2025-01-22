@@ -17,7 +17,7 @@
 - 🌍 Collaborate with innovative teams globally.
 - 📊 Develop systems to ensure client data privacy.
 
-## My Projects
+## My Projects [View Full Portfolio](PORTFOLIO.md)
 - [AI Agile Scrum Master](#): Revolutionizing project management with AI.
 - [Shopify App Builder](#): Enabling businesses to create Shopify apps easily.
 - [Other SaaS Projects](#): Scaling innovations in project management and e-commerce.

@@ -32,20 +32,36 @@ I believe in **building technology that drives business impact**—whether it’
 
 ## 🔹 Featured Projects  
 
-### **1️⃣ AI Scrum Master** 🏗️  
-**🚀 AI-powered project management tool that automates Scrum workflows.**  
+### **1️⃣ [Tavus - The OS for Human-AI Interaction](https://platform.tavus.io)** 🤖  
+🚀 **AI-powered video personalization platform transforming human-AI interaction.**  
+📌 **Tech Stack:** Python, TensorFlow, React, AWS, Kubernetes  
+✔ **Enables real-time AI-driven video customization for enterprises.**  
+✔ **SOC 2-compliant architecture ensuring data security and compliance.**  
+✔ **Optimized AI/ML pipelines for scalable, high-performance content generation.**  
+
+### **2️⃣ AI Scrum Master** 🏗️  
+🚀 **AI-powered project management tool that automates Scrum workflows.**  
 📌 **Tech Stack:** Python, GPT, React, AWS, Docker  
-🔗 [GitHub Repository](#) | [Live Demo](#)  
+<!--- 🔗 [GitHub Repository](#) | [Live Demo](#)  -->
+✔ **Automates sprint planning, daily standups, and retrospectives.**  
+✔ **Integrates seamlessly with Jira, Trello, and Slack.**  
+✔ **AI-driven insights to improve team efficiency and sprint execution.**  
 
-### **2️⃣ Shopify App Builder** 🛒  
-**🔧 A no-code platform for creating Shopify apps effortlessly.**  
+### **3️⃣ Shopify App Builder** 🛒  
+🔧 **A no-code platform for creating Shopify apps effortlessly.**  
 📌 **Tech Stack:** TypeScript, React, Node.js, Firebase  
-🔗 [GitHub Repository](#) | [Live Demo](#)  
+<!--- 🔗 [GitHub Repository](#) | [Live Demo](#)  -->
+✔ **Drag-and-drop interface for building Shopify apps without coding.**  
+✔ **Supports multiple themes, payment gateways, and analytics.**  
+✔ **Optimized for mobile responsiveness and seamless store integration.**  
 
-### **3️⃣ DevSecOps CI/CD Framework** 🔒  
-**🛠️ Optimized CI/CD pipeline integrating security best practices.**  
+### **4️⃣ DevSecOps CI/CD Framework** 🔒  
+🛠️ **Optimized CI/CD pipeline integrating security best practices.**  
 📌 **Tech Stack:** GitHub Actions, Terraform, AWS, SonarQube, Snyk  
-🔗 [GitHub Repository](#)  
+<!--- 🔗 [GitHub Repository](#)  -->
+✔ **Reduces CI/CD execution time by 66% with caching and parallel execution.**  
+✔ **Integrates static and dynamic security testing (SAST & DAST).**  
+✔ **Automates compliance checks for SOC 2, GDPR, and HIPAA.**  
 
 ---
 <!---
